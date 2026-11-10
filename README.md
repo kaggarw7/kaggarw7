@@ -11,10 +11,12 @@ I'm from Dehradun, a small city in the hills of north India. On my first day at 
 - **Starbucks**: Built a self-service API from scratch in FastAPI so app teams could serve themselves. At the company hackathon, my team built a model that predicts how much moisture green coffee loses before it reaches the roaster. It was estimated to save the roasting plant 14 hours a week, with a projected $1M+ a year in impact. I love coffee, so that one was personal.
 - **NASA–ASU Psyche mission**: Built a rocket game in Unity for the mission.
 - **ASU research**: Co-authored [VL-GLUE](https://arxiv.org/abs/2410.13666), a benchmark of 100k+ questions that tests whether AI models can reason over images and text together.
+
 ## Product
 
 - **ProCARE Portal**: Associate product manager at a healthcare software startup. Set feature priorities with the CEO, kept design and engineering moving together, and presented to senior leadership.
 - **NurseWav**: Led product design for an app to cut alarm fatigue among hospital nurses. I interviewed nurses, built the wireframes in Figma, and won ASU's eSeed Challenge funding for the prototype.
+
 ## Leadership
 
 - Served on the Board of Directors of [sunhacks](https://fullcircle.asu.edu/features/sunhacks-bright-minds-hack-for-good-and-fun/), Arizona's largest student-led hackathon. I started as tech lead in 2023, joined the board for design and marketing, then ran finance. 600+ hackers came in 2024.
