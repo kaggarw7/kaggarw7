@@ -27,7 +27,7 @@ I'm from Dehradun, a small city in the hills of north India. On my first day at 
 
 - [ASU Outstanding Graduate](https://news.asu.edu/20250509-sun-devil-community-outstanding-graduate-drawn-asu-learning-experiences-beyond-classroom), 2025, with a personal letter from ASU President Michael Crow.
 - B.S. in Computer Science, summa cum laude, 4.0, Dean's List every semester. M.S. in Computer Science and M.S. in Management of Technology.
-- First place in a product design challenge run by Intel's Industrial IoT team.
+- First place in a product design challenge at an Intel-led systems engineering workshop.
 - Third place in my first ever dragon boat race.
 
 ---
