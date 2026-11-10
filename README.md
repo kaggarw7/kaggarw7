@@ -6,7 +6,7 @@ I'm from Dehradun, a small city in the hills of north India. On my first day at 
 
 ## Engineering
 
-- **AWS**: Building there since 2025, first in Santa Monica, now in Boston.
+- **AWS**: Building since 2025, first in Santa Monica, now in Boston.
 - **Intel**: Built a dependency-management feature into one of Intel's developer tools and open-sourced the patches. Took an AI reference app from prototype to validation on both Linux and Windows.
 - **Starbucks**: Built a self-service API from scratch in FastAPI so app teams could serve themselves. At the company hackathon, my team built a model that predicts how much moisture green coffee loses before it reaches the roaster. It was estimated to save the roasting plant 14 hours a week, with a projected $1M+ a year in impact. I love coffee, so that one was personal.
 - **NASA–ASU Psyche mission**: Built a rocket game in Unity for the mission.
