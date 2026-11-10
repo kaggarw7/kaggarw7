@@ -1,6 +1,6 @@
 # Hi, I'm Kartik
 
-I build and ship software at **AWS**. For the last four years I've been building at Amazon, Intel, Starbucks and the NASA–ASU Psyche mission, with a stint as a product manager in between. I like owning a thing end to end, from deciding what's worth building to getting it out the door.
+I build and ship software at **AWS**. Over the last four years that's taken me through Amazon, Intel, Starbucks and the NASA–ASU Psyche mission, with a stint as a product manager in between. I like owning a thing end to end, from deciding what's worth building to getting it out the door.
 
 I'm from Dehradun, a small city in the hills of north India. On my first day at Arizona State, I asked my best friend how fast we could finish and go home. He told me to enjoy it instead. So I did. I finished my CS degree a semester early with a 4.0, stayed for two master's degrees, and spent most of my free time running clubs and hackathons.
 
