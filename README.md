@@ -17,7 +17,7 @@ I'm from Dehradun, a small city in the hills of north India. On my first day at 
 - **NurseWav**: Led product design for an app to cut alarm fatigue among hospital nurses. I interviewed nurses, built the wireframes in Figma, and won ASU's eSeed Challenge funding for the prototype.
 ## Leadership
 
-- Helped run [sunhacks](https://fullcircle.asu.edu/features/sunhacks-bright-minds-hack-for-good-and-fun/), Arizona's largest student-led hackathon, from 2023 to 2025. I started as tech lead, moved to design and marketing, then ran finance. 600+ hackers came in 2024.
+- Served on the Board of Directors of [sunhacks](https://fullcircle.asu.edu/features/sunhacks-bright-minds-hack-for-good-and-fun/), Arizona's largest student-led hackathon. I started as tech lead in 2023, joined the board for design and marketing, then ran finance, and I still advise the team. 600+ hackers came in 2024.
 - Grew ASU's Machine Learning Club meetings from 17 people to 105 as VP, and co-founded the Prompt Engineering Club.
 - Served as VP of the Devils' Consulting Club and of ACEL at ASU. Six clubs as VP or advisor in all.
 - Taught 200+ engineering students as a TA, on a full-tuition assistantship.
