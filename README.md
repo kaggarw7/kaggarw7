@@ -30,4 +30,4 @@ I'm from Dehradun, a small city in the hills of north India. On my first day at 
 - First place in Intel's product design challenge.
 - Third place in my first ever dragon boat race.
 
-Say hi on [X](https://x.com/BuildWithKartik) or [LinkedIn](https://www.linkedin.com/in/kartikaggarwal7/).
+Dehradun to Boston, the long way around. No model would have predicted that path.
