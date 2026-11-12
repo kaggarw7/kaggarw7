@@ -34,4 +34,4 @@ I'm from Dehradun, a small city in the hills of north India. On my first day at 
 
 ---
 
-🧭 *Dehradun to Boston, the long way around. No model would have predicted that path.*
+*Curious, Innovative, Boundless.*
