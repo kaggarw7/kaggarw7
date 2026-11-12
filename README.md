@@ -34,4 +34,4 @@ I'm from Dehradun, a small city in the hills of north India. On my first day at 
 
 ---
 
-*Curious, Innovative, Boundless.*
+> *Curious, Innovative, Boundless.*
